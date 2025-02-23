@@ -14,7 +14,7 @@ This project implements a simple K-Nearest Neighbors (KNN) classifier on the han
 
 ## Tools and Libraries Used
 
-- **Python 3.x**
+- **Python 3.12.0**
 - **scikit-learn**
 - **NumPy** 
 - **Matplotlib** 
